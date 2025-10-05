@@ -142,7 +142,8 @@ html {
 }
 
 body {
-  font-family: "Jost", sans-serif;
+  /* font-family: "Jost", sans-serif; */
+  font-family: Verdana, Arial, sans-serif;
   color: #5C5C5C;
   background-color: #fff;
   font-size: 18px;
@@ -169,7 +170,8 @@ h4,
 h5,
 h6 {
   color: #101010;
-  font-family: "Sail", cursive;
+  /* font-family: "Sail", cursive; */
+  font-family: "Comic Sans MS", Verdana, Arial, sans-serif !important;
   font-weight: 400;
 }
 
