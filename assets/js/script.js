@@ -533,11 +533,11 @@ var _0x30e6c9 = _0x32a9;
     }
     _0x4ba4ec(_0x5053fe(0x161))[_0x5053fe(0xbc)] &&
       _0x4ba4ec(_0x5053fe(0x161))[_0x5053fe(0xca)]({
-        autoplay: !![],
-        smartSpeed: 0x12c,
-        margin: 0x0,
-        loop: ![],
-        autoplayHoverPause: !![],
+        autoplay: false,
+        smartSpeed: 0,
+        margin: 10,
+        loop: true,
+        autoplayHoverPause: true,
         dots: ![],
         nav: !![],
         navText: [
